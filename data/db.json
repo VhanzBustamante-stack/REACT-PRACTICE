@@ -2,13 +2,13 @@
   "blogs": [
     {
       "title": "My new blog 1",
-      "body": "lorem ipsum...",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam dolorum sequi quasi perspiciatis tempore consequuntur saepe, assumenda ducimus suscipit error praesentium ex quia! Eaque natus, cupiditate deserunt ad tempore quibusdam?",
       "author": "mario",
       "id": 1
     },
     {
       "title": "My new blog 2",
-      "body": "lorem ipsum...",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam dolorum sequi quasi perspiciatis tempore consequuntur saepe, assumenda ducimus suscipit error praesentium ex quia! Eaque natus, cupiditate deserunt ad tempore quibusdam?",
       "author": "yoshi",
       "id": 2
     }
