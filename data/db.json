@@ -4,13 +4,26 @@
       "title": "My new blog 1",
       "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam dolorum sequi quasi perspiciatis tempore consequuntur saepe, assumenda ducimus suscipit error praesentium ex quia! Eaque natus, cupiditate deserunt ad tempore quibusdam?",
       "author": "mario",
-      "id": 1
+      "id": "1"
     },
     {
       "title": "My new blog 2",
       "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam dolorum sequi quasi perspiciatis tempore consequuntur saepe, assumenda ducimus suscipit error praesentium ex quia! Eaque natus, cupiditate deserunt ad tempore quibusdam?",
       "author": "yoshi",
-      "id": 2
+      "id": "2"
+    },
+    {
+      "title": "The Carpenter",
+      "body": "dsadniasdnaksmdkasckxzc",
+      "author": "yoshi",
+      "id": "4lm-bubtatc"
+    },
+    {
+      "title": "THe Mason",
+      "body": "dsahnd khdnasmd ksa djasmd nklnkd nfheunf cwbscbcldafbq nf nfniwenfi a nifnicwec",
+      "author": "mario",
+      "id": "Ylr8J-ubBMU"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
